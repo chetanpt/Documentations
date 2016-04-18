@@ -1,0 +1,37 @@
+<Chetan>
+Å[Muscle Force Estimation for Personalized Musculoskeletal ModelÅ]
+
+Å[Progress of studyÅ]
+1. Learning opensim and its functions
+2. Able to find muscle force and activation 
+3. Learning oensim API for programming muscle model.
+
+Å[AchievementÅ]
+Å1. Provide external strength to the model and find the effects of it of muscle force and activation. 
+2. Ability to build customised model using programs
+
+[Problem untill next timeÅ]
+1. Fix the model and external force to generate less strength. 
+2. Develop tool to build personalised muscuoskeletal model 
+
+------------------------------------------------------------
+Å[Questions and answersÅ]
+Q1. How muscle force and activation is different ?
+Ans: Muscle force si unit is Newton whereas unit of muscle activation is percentage.
+Q2. Why did you use these two factors ?
+Ans: Because when using assistive muscle the muscle force and activation are used to find out the effects of the external force. 
+Q3. What are the names of two muscle in the graph and where are they located ?
+Ans. Sartorius and Rectus Femoris of right leg. Endpoints of these muscle starts from hip till knee. 
+Q4. Which motion is used for the experiment ?
+Ans. Normal Walk motion is used. 
+
+Å[ComentsÅ]
+[Prof. Tsuji]
+C1. Need originality of the research topic. No two research topic can be same. 
+
+[Prof. Kurita]
+C1. Walking is harder if muscle are generating more force. 
+
+
+Å[Challenges for the futureÅ]
+Å1. Develop a software which will find musce force and activation for external force without much changes. 
